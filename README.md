@@ -8,11 +8,11 @@ y asi complementar lo visto en la Universida y por volverme mejor programador
 
 Eh trabajado con diferentes lenguajes de programacion como:
 
--C++
--C#
--Python 
--Html,CSS,JS
--Php
+*C++
+*C#
+*Python 
+*Html,CSS,JS
+*Php
 
 Y cada vez aprendo nuevas cosas y me gusta mas y mas la programacion.
 
