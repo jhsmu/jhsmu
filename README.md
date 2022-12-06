@@ -1,5 +1,21 @@
 ### Presentacion
-Mi nombre es jhonatan Esmith Mena Urrutia 
+Mi nombre es **jhonatan Esmith Mena Urrutia**, tengo 23 años soy estudiante del **SENA** cursando la carrera de 
+**Desarrollo De Sotfware**
+
+Termino mu carrera universitaria como **Ingeniero de Sistemas** la cual curso el 10 semestre.
+Me husta mucho la programacion y la entiendo con facilidad por eso escogi la carrera de **Desarrollo De Sotfware**
+y asi complementar lo visto en la Universida y por volverme mejor programador
+
+Eh trabajado con diferentes lenguajes de programacion como:
+
+-C++
+-C#
+-Python 
+-Html,CSS,JS
+-Php
+
+Y cada vez aprendo nuevas cosas y me gusta mas y mas la programacion.
+
 <!--
 **jhsmu/jhsmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
