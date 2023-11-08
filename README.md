@@ -1,8 +1,8 @@
 ### Presentacion
-Mi nombre es **jhonatan Esmith Mena Urrutia**, tengo 23 años soy estudiante del **SENA** cursando la carrera de 
+Mi nombre es **Jhonatan Esmith Mena Urrutia**, tengo 23 años soy estudiante del **SENA** cursando la carrera de 
 **Desarrollo De Sotfware**
 
-Termino mu carrera universitaria como **Ingeniero de Sistemas** la cual curso el 10 semestre.
+Termino mi carrera universitaria como **Ingeniero de Sistemas** la cual curso el 10 semestre.
 Me husta mucho la programacion y la entiendo con facilidad por eso escogi la carrera de **Desarrollo De Sotfware**
 y asi complementar lo visto en la Universida y por volverme mejor programador
 
