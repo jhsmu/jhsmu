@@ -22,7 +22,7 @@ me esfuerzo por crear sistemas eficientes y escalables que impulsen el éxito de
   </p>
 </div>
 <div>
-  <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+  <h2 align="center">🤝 Contáctame 🤝 </h2>
   <br>
   <a href="https://www.linkedin.com/in/jhonatan-esmith-mena-urrutia-523145272/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
