@@ -32,8 +32,9 @@ me esfuerzo por crear sistemas eficientes y escalables que impulsen el éxito de
 <a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 <br>
+
 <pre>
-  ¡Acerca de mí!
+<h2 align="center"> ¡Acerca de mí 😄! </h2>
   <br>
 🔭 Desarrollando una página web de apoyo psicológico.
 
@@ -51,7 +52,7 @@ armar tambien podia desarrollar e inventar y por eso escogi ser ingeniero de sis
  <h2 align="center">Lenguajes Y Herramientas</h2> 
 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,laravel,php,nodejs,mysql,mongo,git,vscode,docker,postman,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,react,laravel,php,typescript,nodejs,mysql,mongo,git,jenkins,vscode,docker,postman,linux&perline=10"  />
 </p>
 
 </div>
